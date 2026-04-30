@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f001f,35:6a00ff,70:a855f7,100:ff00cc&height=300&section=header&text=whyxle&fontSize=58&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Reverse%20Engineering%20%7C%20UDP%20Research%20%7C%20Software%20Engineering&descSize=18&descAlignY=58&stroke=ffffff&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f001f,35:6a00ff,70:a855f7,100:ff00cc&height=300&section=header&text=whyxle/ardxides&fontSize=58&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Reverse%20Engineering%20%7C%20UDP%20Research%20%7C%20Software%20Engineering&descSize=18&descAlignY=58&stroke=ffffff&strokeWidth=1)
 
 <div align="center">
 
