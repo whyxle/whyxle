@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=700&color=A855F7&center=true&vCenter=true&width=900&lines=Reverse+Engineering+%26+UDP+Protocol+Research;Mobile+Traffic+Analysis+%7C+Frida+%7C+Wireshark;Python+%7C+C%2B%2B+%7C+Qt+%7C+Low-level+Tools;Building+tools+that+see+what+others+miss" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=700&color=A855F7&center=true&vCenter=true&width=900&lines=Reverse+Engineering+%26+UDP+Protocol+Research;Mobile+Traffic+Analysis+%7C+Frida+%7C+Wireshark;Python+%7C+C%2B%2B+%7C+Qt+%7C+Low-level+Tools" alt="Typing SVG" />
 
 <br><br>
 
